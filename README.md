@@ -1,5 +1,5 @@
 # React + TypeScript + Vite
-
+### it is responsive website – uses State & Props to state management and pass data.
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
